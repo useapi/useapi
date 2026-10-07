@@ -18,6 +18,8 @@
 
 Comparisons: [seedance-2-api](https://github.com/useapi/seedance-2-api) (one Seedance 2.0 job through four services, with a price dataset), [sora-2-alternatives](https://github.com/useapi/sora-2-alternatives), [ai-music-comparison](https://github.com/useapi/ai-music-comparison).
 
+Tools: [google-account-setup](https://github.com/useapi/google-account-setup) (a clean, single-use Google sign-in for exporting session cookies, with device-bound sessions switched off; Windows, macOS, Linux).
+
 #### Links
 
 [Docs](https://useapi.net/docs/start-here/setup-useapi?utm_source=github.com&utm_medium=referral&utm_campaign=profile) · [Tutorials](https://useapi.net/docs/articles?utm_source=github.com&utm_medium=referral&utm_campaign=profile) · [Discord](https://discord.gg/w28uK3cnmF) · [Telegram](https://t.me/use_api)
