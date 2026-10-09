@@ -7,7 +7,7 @@
 | Repository | What it covers |
 |---|---|
 | [google-flow-api](https://github.com/useapi/google-flow-api) | Google Flow: Veo 3.1 and Omni 1.1 Flash video, Nano Banana images, n8n templates (Node.js, Python) |
-| [google-vids-api](https://github.com/useapi/google-vids-api) | Google Vids: Gemini Omni 1.1 Flash video with voiced AI avatars, extend, 1080p upscale; no captcha (Node.js, Python) |
+| [google-vids-api](https://github.com/useapi/google-vids-api) | Google Vids: Gemini Omni 1.1 Flash video with voiced AI avatars, extend, 1080p upscale; no captcha. Node.js, Python, an agent skill |
 | [notebooklm-api](https://github.com/useapi/notebooklm-api) | NotebookLM (Gemini Notebook): web pages, PDFs and YouTube videos into podcasts and video overviews. Colab notebook, n8n workflows, an agent skill |
 | [dreamina-api](https://github.com/useapi/dreamina-api) | Dreamina (CapCut): Seedance video, Seedream images |
 | [flowmusic-api](https://github.com/useapi/flowmusic-api) | Google Flow Music: full songs with Lyria 3.5 and Lyria 3 Pro |
