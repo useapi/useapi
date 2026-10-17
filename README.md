@@ -2,11 +2,15 @@
 
 [useapi.net](https://useapi.net/?utm_source=github.com&utm_medium=referral&utm_campaign=profile) is a third-party API for AI generation services that have no public API, or whose API costs far more than the website. You connect your own accounts, and one flat subscription covers every API below. There is no per-generation charge from us.
 
+#### MCP servers
+
+Hosted MCP servers for Claude Code, Cursor, VS Code and other AI assistants, on your own accounts with your useapi.net API token, nothing to install: Google Flow (agent chat), Google Vids, NotebookLM (Gemini Notebook), Flow Music, Muse, Kling and Mureka. All are listed in the official MCP Registry under `net.useapi`. [The full list](https://useapi.net/model-matrix?utm_source=github.com&utm_medium=referral&utm_campaign=profile#mcp-servers).
+
 #### Example code
 
 | Repository | What it covers |
 |---|---|
-| [google-flow-api](https://github.com/useapi/google-flow-api) | Google Flow: Veo 3.1 and Omni 1.1 Flash video, Nano Banana images, n8n templates (Node.js, Python) |
+| [google-flow-api](https://github.com/useapi/google-flow-api) | Google Flow: Veo 3.1 and Omni 1.1 Flash video, Nano Banana images, Google Flow Agent chat (live demo app), n8n templates (Node.js, Python) |
 | [google-vids-api](https://github.com/useapi/google-vids-api) | Google Vids: Gemini Omni 1.1 Flash video with voiced AI avatars, extend, 1080p upscale; no captcha. Node.js, Python, an agent skill, an n8n template |
 | [muse-api](https://github.com/useapi/muse-api) | Meta Muse (muse.ai): AI images and 10-second videos with sound and dialogue, photo compositing, old-photo restoration, person swap, agent chat; free plan works. Node.js, Python, an agent skill, an MCP server, an n8n template |
 | [notebooklm-api](https://github.com/useapi/notebooklm-api) | NotebookLM (Gemini Notebook): web pages, PDFs and YouTube videos into podcasts and video overviews. Colab notebook, n8n workflows, an agent skill |
