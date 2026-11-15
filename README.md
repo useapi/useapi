@@ -11,15 +11,15 @@ Hosted MCP servers for Claude Code, Cursor, VS Code and other AI assistants, on 
 | Repository | What it covers |
 |---|---|
 | [google-flow-api](https://github.com/useapi/google-flow-api) | Google Flow: Veo 3.1 and Omni 1.1 Flash video, Nano Banana images, Google Flow Agent chat (live demo app), n8n templates (Node.js, Python) |
-| [google-vids-api](https://github.com/useapi/google-vids-api) | Google Vids: Gemini Omni 1.1 Flash video with voiced AI avatars, extend, 1080p upscale; no captcha. Node.js, Python, an agent skill, an n8n template |
 | [muse-api](https://github.com/useapi/muse-api) | Meta Muse (muse.ai): AI images and 10-second videos with sound and dialogue, photo compositing, old-photo restoration, person swap, agent chat; free plan works. Node.js, Python, an agent skill, an MCP server, an n8n template |
 | [acemusic-api](https://github.com/useapi/acemusic-api) | ACE Music: songs with ACE Music v1 (top of Artificial Analysis' vocal leaderboard), v1.1 and the free ACE-Step v1.5 XL; covers, mashups, stems, MIDI and MusicXML. Node.js and Python |
+| [google-vids-api](https://github.com/useapi/google-vids-api) | Google Vids: Gemini Omni 1.1 Flash video with voiced AI avatars, extend, 1080p upscale; no captcha. Node.js, Python, an agent skill, an n8n template |
 | [notebooklm-api](https://github.com/useapi/notebooklm-api) | NotebookLM (Gemini Notebook): web pages, PDFs and YouTube videos into podcasts and video overviews. Colab notebook, n8n workflows, an agent skill |
 | [dreamina-api](https://github.com/useapi/dreamina-api) | Dreamina (CapCut): Seedance video, Seedream images |
-| [flowmusic-api](https://github.com/useapi/flowmusic-api) | Google Flow Music: full songs with Lyria 3.5 and Lyria 3 Pro |
-| [mureka-api](https://github.com/useapi/mureka-api) | Mureka: songs from lyrics or a description |
 | [kling-api](https://github.com/useapi/kling-api) | Kling: text-to-video, Omni, motion control, lip-sync |
 | [pixverse-api](https://github.com/useapi/pixverse-api) | PixVerse video |
+| [mureka-api](https://github.com/useapi/mureka-api) | Mureka: songs from lyrics or a description |
+| [flowmusic-api](https://github.com/useapi/flowmusic-api) | Google Flow Music: full songs with Lyria 3.5 and Lyria 3 Pro |
 | [minimax-api](https://github.com/useapi/minimax-api) | MiniMax (Hailuo): video and text-to-speech |
 | [runway-api](https://github.com/useapi/runway-api) | Runway: video and Frames images |
 
