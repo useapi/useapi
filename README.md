@@ -4,7 +4,7 @@
 
 #### MCP servers
 
-Hosted MCP servers for Claude Code, Cursor, VS Code and other AI assistants, on your own accounts with your useapi.net API token, nothing to install: Google Flow (agent chat), Muse, ACE Music, Google Vids, NotebookLM (Gemini Notebook), Kling, Mureka and Flow Music. All are listed in the official MCP Registry under `net.useapi`. [The full list](https://useapi.net/model-matrix?utm_source=github.com&utm_medium=referral&utm_campaign=profile#mcp-servers).
+13 hosted MCP servers for the Claude app, ChatGPT, Claude Code, Cursor, VS Code and other AI assistants, on your own accounts with your useapi.net API token, nothing to install: Google Flow (agent chat), Muse, ACE Music, Google Vids, NotebookLM (Gemini Notebook), Dreamina, Kling, PixVerse, Mureka, Flow Music, MiniMax, Runway and TemPolor. All are listed in the official MCP Registry under `net.useapi`. [The full list](https://useapi.net/model-matrix?utm_source=github.com&utm_medium=referral&utm_campaign=profile#mcp-servers).
 
 #### Example code
 
@@ -22,6 +22,7 @@ Hosted MCP servers for Claude Code, Cursor, VS Code and other AI assistants, on 
 | [flowmusic-api](https://github.com/useapi/flowmusic-api) | Google Flow Music: full songs with Lyria 3.5 and Lyria 3 Pro |
 | [minimax-api](https://github.com/useapi/minimax-api) | MiniMax (Hailuo): video and text-to-speech |
 | [runway-api](https://github.com/useapi/runway-api) | Runway: video and Frames images |
+| [tempolor-api](https://github.com/useapi/tempolor-api) | TemPolor: v4.8 songs with vocals in an artist's or your cloned voice, i4 instrumentals, voice cloning and stems. Node.js, an MCP server, Claude Code and Gemini CLI plugins |
 
 Comparisons: [seedance-2-api](https://github.com/useapi/seedance-2-api) (one Seedance 2.0 job through four services, with a price dataset), [sora-2-alternatives](https://github.com/useapi/sora-2-alternatives), [ai-music-comparison](https://github.com/useapi/ai-music-comparison).
 
