@@ -10,7 +10,8 @@
 
 | Repository | What it covers |
 |---|---|
-| [google-flow-api](https://github.com/useapi/google-flow-api) | Google Flow: Veo 3.1 and Omni 1.1 Flash video, Nano Banana images, Google Flow Agent chat (live demo app), n8n templates (Node.js, Python) |
+| [google-flow-api](https://github.com/useapi/google-flow-api) | Google Flow: Veo 3.1 and Omni 1.2 Flash video, Nano Banana images, Google Flow Agent chat (live demo app), n8n templates, a Dify plugin (Node.js, Python) |
+| [comfyui-google-flow](https://github.com/useapi/comfyui-google-flow) | ComfyUI nodes for Google Flow (`useapi-google-flow` in ComfyUI-Manager): Nano Banana images, Veo 3.1 Lite and Omni 1.2 Flash video, 720p to 4K upscale, on your own Google AI plan; three example workflows |
 | [muse-api](https://github.com/useapi/muse-api) | Meta Muse (muse.ai): AI images and 10-second videos with sound and dialogue, photo compositing, old-photo restoration, person swap, agent chat; free plan works. Node.js, Python, an agent skill, an MCP server, an n8n template |
 | [acemusic-api](https://github.com/useapi/acemusic-api) | ACE Music: songs with ACE Music v1 (top of Artificial Analysis' vocal leaderboard), v1.1 and the free ACE-Step v1.5 XL; covers, mashups, stems, MIDI and MusicXML. Node.js and Python |
 | [google-vids-api](https://github.com/useapi/google-vids-api) | Google Vids: Gemini Omni 1.1 Flash video with voiced AI avatars, extend, 1080p upscale; no captcha. Node.js, Python, an agent skill, an n8n template |
